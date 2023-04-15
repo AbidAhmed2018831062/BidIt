@@ -1,0 +1,6 @@
+        <Box sx={{ textAlign: "center" }}>
+          <IconButton aria-label="time left" sx={{ color: "black" }}>
+            <AccessAlarmIcon />
+          </IconButton>
+          <Typography variant="p">23 days</Typography>
+        </Box>
